@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:22.045
 
 LABEL version="0.1"
 LABEL description="This is the custm EMP LAMP Stack image."
